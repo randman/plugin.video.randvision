@@ -16,7 +16,7 @@
         <forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
         <source>https://github.com/randman/plugin.video.randvision</source>
         <email>rand_anderson@yahoo.com</email>
-        <datadir zip="false">https://github.com/randman/plugin.video.randvision</datadir>
+        <datadir zip="true">https://github.com/randman/plugin.video.randvision/archive/master.zip</datadir>
     </extension>
 </addon>
 
