@@ -35,7 +35,7 @@ if Surfline == 'true':
     breaks.append(["/surfline/secure/live/wc-pontohdcam?e=0&h=a984acb31092dcb45648e5514c47941d","Ponto"])
     breaks.append(["/surfline/secure/live/wc-tamarackcam?e=0&h=d8959b95c5b27ab9249b4a09ec294f63","Tamarack"])
     breaks.append(["/surfline/secure/live/wc-oceansidecacam?e=0&h=104586ca27a46edc0bf443950a326acb", "Oceanside Harbor"])
-    breaks.append(["/surfline/secure/wc-oceansidepiernscam?e=0&h=981d3492043d2d6e878066cc9a0768f4", "Oceanside Pier North"])
+    #breaks.append(["/surfline/secure/wc-oceansidepiernscam?e=0&h=981d3492043d2d6e878066cc9a0768f4", "Oceanside Pier North"])
     breaks.append(["/surfline/secure/live/wc-osidepiersscam?e=0&h=d0cd50a3a2f78fb7bba3f14c90b8ab28","Oceanside Pier South"])
     #neFile=breaks[chose][0]
     #mybreak=breaks[chose][1]
