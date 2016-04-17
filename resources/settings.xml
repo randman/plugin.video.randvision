@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <setting id="my_setting" type="bool" default="true" label="My Setting"/>
+    <setting id="NLSSServer" type="text" label="30001" default="https://nlss-demo.nextls.net" />
+    <setting id="User" type="text" label="30001" default="superuser"  />
+    <setting id="Password" type="text" label="30001" default="nlss123"  />
+    <setting id="Customer" type="text" label="30001" default="nlss-demo" option="hidden" />
+    <setting id="Item" type="text" label="30001" default="0"  />
+    <setting id="Surfline" type="bool" default="true" label="Surfline"/>
 </settings>
